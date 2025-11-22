@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/yourusername/hope-tech/main/preview/banner.jpg" alt="Hope Tech - Interior Design Website" width="100%"/>
 
-# Hope Tech – Modern Interior Design Website  
+# Hope Tech Modern Interior Design Website  
 
 **Beautiful • Affordable • Ethiopian-Made Interiors**  
 
